@@ -10,7 +10,35 @@ A passionate developer
 
 - 💬 Ask me about **Html,CSS,Javascript,Wordpress**
 
-- 📫 How to reach me **Sushmaratore38@gmail.com**
+- 📫 How to reach me **Sushmarat<h1 align="center">Hi 👋, I'm Sushma</h1>
+<h3 align="center">A passionate frontend developer</h3>
+
+- 🔭 I’m currently working on **wordpress**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Html,CSS,Javascript,Wordpress**
+
+- 📫 How to reach me **Sushmarat<h1 align="center">Hi 👋, I'm Sushma</h1>
+<h3 align="center">A passionate frontend developer</h3>
+
+- 🔭 I’m currently working on **wordpress**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Html,CSS,Javascript,Wordpress**
+
+- 📫 How to reach me **Sushmarathore38@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+ore38@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+ore38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
