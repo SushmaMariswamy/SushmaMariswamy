@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html,CSS,Javascript,Wordpress**
 
-- 📫 How to reach me **Sushmarathore38@gmail.com**
+- 📫 How to reach me **29sushmam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
